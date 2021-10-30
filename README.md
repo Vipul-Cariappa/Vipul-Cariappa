@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![Info](https://raw.githubusercontent.com/Vipul-Cariappa/Vipul-Cariappa/main/me.svg)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Cariappa&langs_count=10&theme=tokyonight&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Cariappa&langs_count=6&theme=tokyonight&layout=compact&hide=html,makefile,qml,cmake)
 
-![Vipul Cariappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipul-Cariappa)
-
+![Vipul Cariappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipul-Cariappa&count_private=true&&show_icons=true)
